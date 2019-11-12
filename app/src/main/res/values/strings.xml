@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">prac4sccm</string>
+    <string name="inombre">Ingresa tu nombre</string>
+    <string name="hnombre">ingresa tu nombre</string>
+    <string name="nsaluda">Saludar!!!!</string>
+</resources>
